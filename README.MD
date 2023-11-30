@@ -42,6 +42,7 @@ To run the optimization and evaluation, execute the Python script containing the
 - `scikit-learn`
 - `hyperopt`
 - `numpy`
+- `matplotlib`
 
 ## License
 
@@ -55,4 +56,4 @@ Jesus Lugo.
 
 ## Acknowledgments
 
-Mention any individuals, organizations, or resources that were helpful during the development of this project.
+Metodos Numericos, UdG.
